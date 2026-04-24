@@ -4,8 +4,7 @@
 
 ### Lead Software Engineer · DevOps & Cloud-Native Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=+Lead+Software+Engineer+%40+Persistent+Systems;CI%2FCD+%7C+OpenShift+%7C+Cloud-Native;Python+%7C+Automation+%7C+DevSecOps;4.2%2B+Years+Building+Reliable+Systems)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Lead+Software+Engineer+%40+Persistent+Systems;CI%2FCD+%7C+OpenShift+%7C+Cloud-Native;Python+%7C+Automation+%7C+DevSecOps;4.2%2B+Years+Building+Reliable+Systems&size=18)](https://git.io/typing-svg)
 </div>
 
 ---
